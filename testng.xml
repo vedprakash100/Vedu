@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.scripts.MavenActiTime.TestVedu"/>
       <class name="com.scripts.MavenActiTime.TestActitime"/>
-      <class name="com.scripts.MavenActiTime.TestYantra"/>
       <class name="com.scripts.MavenActiTime.TestVerify"/>
     </classes>
   </test> <!-- Test -->
